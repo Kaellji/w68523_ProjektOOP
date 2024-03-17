@@ -1,0 +1,17 @@
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/automat
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/automat.deps.json
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/automat.runtimeconfig.json
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/automat.dll
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/automat.pdb
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.csproj.AssemblyReference.cache
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.AssemblyInfoInputs.cache
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.AssemblyInfo.cs
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.csproj.CoreCompileInputs.cache
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.csproj.CopyComplete
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.dll
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/refint/automat.dll
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.pdb
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/automat.genruntimeconfig.cache
+/Users/mateuszcislo/Desktop/ProjektOOp/automat/obj/Debug/net7.0/ref/automat.dll

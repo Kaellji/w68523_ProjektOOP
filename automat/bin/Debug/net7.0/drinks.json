@@ -1,0 +1,7 @@
+{
+    drink1: { "Espresso" : 4.75},
+    drink2: {"Mocca": 3.25},
+    drink3: {"Black Coffee": 5.00},
+    drink4: {"Chocolate": 6.00},
+    drink5: {"Orange Juice": 3.50}
+}

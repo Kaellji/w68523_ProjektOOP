@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F4A7891C-1908-4FB7-AA8F-8BEA969C4117}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/mateuszcislo/Desktop/ProjektOOp/automat/IngredientValues.cs" relfile="IngredientValues.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Storage.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="2" />
+      <File FileName="Machine.cs" Line="22" Column="53" />
+      <File FileName="ReadJfile.cs" Line="31" Column="38" />
+      <File FileName="DrinksReader.cs" Line="18" Column="8" />
+      <File FileName="Storage.cs" Line="5" Column="14" />
+      <File FileName="DrinkReader.cs" Line="16" Column="2" />
+      <File FileName="Payment.cs" Line="5" Column="58" />
+      <File FileName="bin/Debug/net7.0/resources.json" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="automat" expanded="True">
+            <Node name="automat" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Storage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.automat PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
